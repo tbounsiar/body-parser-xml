@@ -1,0 +1,45 @@
+{
+  "_from": "@types/body-parser-xml@^1.1.0",
+  "_id": "@types/body-parser-xml@^1.1.0",
+  "_inBundle": false,
+  "_location": "/@types/body-parser-xml",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@types/body-parser-xml@^1.1.0",
+    "name": "@types/body-parser-xml",
+    "escapedName": "@types%2fbody-parser-xml",
+    "scope": "@types",
+    "rawSpec": "^1.1.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.1.0"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_spec": "@types/body-parser-xml@^1.1.0",
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "T BOUNSIAR",
+      "url": "https://github.com/tbounsiar"
+    }
+  ],
+  "dependencies": {
+    "@types/express": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for body-parser-xml",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/body-parser-xml",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.3",
+  "version": "1.1.0"
+}
